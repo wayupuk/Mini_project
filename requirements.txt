@@ -1,0 +1,6 @@
+pandas
+boto3
+pyarrow
+fastparquet
+prefect
+psycopg2 or psycopg2-binary
